@@ -1,0 +1,14 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs e temporarios
+*.log
+*.tmp
+*.temp
+
+# Dependencias e builds locais
+node_modules/
+dist/
+build/
